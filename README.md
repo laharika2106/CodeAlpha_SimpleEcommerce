@@ -1,4 +1,4 @@
-# CodeAlpha Ecommerce Project
+# Ecommerce Project
 
 Modern ecommerce website built using HTML, CSS, JavaScript.
 
